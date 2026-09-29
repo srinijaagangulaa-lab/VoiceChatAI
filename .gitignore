@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.log
+.env
+.streamlit/secrets.toml
+ai_output_*.txt
+ai_error_*.txt
+ai_response*
