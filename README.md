@@ -72,6 +72,6 @@ VoiceChatAI/
 
 └── .gitignore
 
-## 📸 Application Preview
+\## 📸 Application Preview
 
 ![Voice Chat AI](screenshot.png)
